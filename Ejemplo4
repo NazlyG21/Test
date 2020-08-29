@@ -4,7 +4,7 @@ public class Main {
 
            
            System.out.print(" longitud del primer cateto: ");
-           
+            System.out.print(" longitud del tercero cateto: ");
            System.out.print(" longitud del segundo cateto: ");
                
     }
